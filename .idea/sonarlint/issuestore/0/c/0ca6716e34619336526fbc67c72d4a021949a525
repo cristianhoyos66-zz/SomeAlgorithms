@@ -1,0 +1,19 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(´ñ·ÿÿÿÿÿ8Ù¯Ö£.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¤Ì¢”úÿÿÿÿ8Ù¯Ö£.
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(€šÑë8Ù¯Ö£.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(“«œ8Ù¯Ö£.
+R
+java:S2209"5Change this instance-reference to a static reference.(ıÍõø8Ù¯Ö£.
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(Ø—ÙË8Ù¯Ö£.
+E
+java:S1148)"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ù¯Ö£.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ûğƒ†8Ù¯Ö£.
+c
+java:S2142("FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Ù¯Ö£.
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(Œ¿Íøÿÿÿÿ8Ù¯Ö£.
+0
+java:S1220""Move this file to a named package.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(“«œ8Ù¯Ö£.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¡“‹Œ8Ù¯Ö£.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ĞÖÂÔ8š¦×£.

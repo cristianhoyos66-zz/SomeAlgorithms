@@ -1,0 +1,7 @@
+
+v
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ðÞº£8Ñò¸‚£.
+0
+java:S1220""Move this file to a named package.
+W
+java:S1118":Add a private constructor to hide the implicit public one.(êñ±ö8Ñò¸‚£.

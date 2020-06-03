@@ -1,0 +1,22 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(´ñ·ÿÿÿÿÿ8äôöĞ£.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(“«œ8‰ÈûÓ£.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¡“‹Œ8äôöĞ£.
+
+java:S1130"€Remove the declaration of thrown exception 'java.util.concurrent.ExecutionException', as it cannot be thrown from method's body.(­Ëê8ŠÜ®Ö£.
+U	java:S106"9Replace this use of System.out or System.err by a logger.( àÛ8ŠÜ®Ö£.
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(€šÑë8áşüÓ£.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¤Ì¢”úÿÿÿÿ8Ü®úÓ£.
+c
+java:S2142#"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Ü¾øĞ£.
+7
+java:S1220""Move this file to a named package.8²åŒĞ£.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(­¿ôäúÿÿÿÿ8ŠÜ®Ö£.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(“«œ8‚”ûÓ£.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ûğƒ†8‰ûıĞ£.
+E
+java:S1148$"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ü¾øĞ£.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ø—ÙË8‰ûıĞ£.
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(Œ¿Íøÿÿÿÿ8•‘Ñ£.
+”
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(­Ëê8ŠÜ®Ö£.
